@@ -3,3 +3,5 @@ HEAD
 "heyyyyy Ilyan hier daddy"
 "Regel toegevoegd vanop de Second" 
 Second
+if (mathias = gay){
+master.beat.slave}
